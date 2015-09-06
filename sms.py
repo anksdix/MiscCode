@@ -10,8 +10,8 @@ from getpass import getpass
 
 import sys
 
-username = "8884846688"
-passwd = "W3352K"
+username = "xxxxx"
+passwd = "xxxx"
 #passwd = getpass()
 
 message = input("Enter Message: ")
