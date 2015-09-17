@@ -1,0 +1,5 @@
+sencha cordova init com.mycompany.MyApp MyApp;
+remove unused paltform from app.json builds block ;
+cd cordova;
+cordova add paltform android;
+sencha app build native ;
